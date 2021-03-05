@@ -4,7 +4,7 @@
 # Bringing_yoU_Spiti (BUS)
 Do you want to travel from Pasalimani 3 to Tsoukaleika 2 in 17 minutes? With B.U.S. you can!
 ## Description
-This project was part of a university assignment concerning databases. This application is the real mastermind supporting the success of the imaginary bus agency *Bringing yoU Spiti*. 
+This project was part of a university assignment concerning databases. This application is the real mastermind supporting the success of the imaginary bus agency **Bringing yoU Spiti**. 
 
 
 The **authors** of this project are (in alphabetical order):
