@@ -8,8 +8,8 @@ This project was part of a university assignment concerning databases. This appl
 
 
 The **authors** of this project are (in alphabetical order):
-- George Evangelou (Dipl. Eng. Electrical and Computer Engineering Department, Univ. of Patras, Greece)
-  - Email: george_evangelou [at] windowslive.com
+- Georgios Evangelou (Dipl. Eng. Electrical and Computer Engineering Department, Univ. of Patras, Greece)
+  - Email: gevangelou [at] hotmail.com
   - [LinkedIn profile](https://www.linkedin.com/in/georgios-evangelou-2a389b167/)
 - Nick Roussos (Dipl. Eng. Electrical and Computer Engineering Department, Univ. of Patras, Greece)
   - Email: nroussos97 [at] gmail.com
